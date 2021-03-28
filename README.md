@@ -17,10 +17,10 @@ python train.py
 
 
 ### 2.1 文件说明
-data：文件夹为数据集。
-model：为训练时产生的模型放到这个文件夹里面。
-npy_file：是每个模型训练完毕产生的npy文件会放里面。
-pseudo_labels：存放伪标签的文件夹。
+data：文件夹为数据集。  
+model：为训练时产生的模型放到这个文件夹里面。  
+npy_file：是每个模型训练完毕产生的npy文件会放里面。  
+pseudo_labels：存放伪标签的文件夹。  
 最终生成submit文件在code/目录下。
 
 ### 2.2 线上分数
